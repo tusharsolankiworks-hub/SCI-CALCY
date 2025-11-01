@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Scientific Calculator",
+  "description": "A sleek, modern scientific calculator web application built with React and Tailwind CSS. It supports a wide range of mathematical operations, from basic arithmetic to complex trigonometric and logarithmic functions. Includes an AI-powered 'Explain' feature using the Gemini API to provide step-by-step solutions to complex expressions.",
+  "requestFramePermissions": []
+}
